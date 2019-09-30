@@ -1,0 +1,18 @@
+table{
+    text-align:center;
+}
+td{
+    background-color: #696969;
+    color: #fff;
+}
+th{
+    padding: 10px 20px 20px;
+}
+th[scope="col"] {
+    background-color: #f0eded;
+    color: #;
+}
+th[scope="row"] {
+    background-color: #f0eded;
+    color: #;
+}
